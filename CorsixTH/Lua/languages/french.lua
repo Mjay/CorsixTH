@@ -111,7 +111,7 @@ tooltip.pay_rise_window.decline = "Ne payez pas, licenciez !"
 tooltip.watch = {
   emergency = "Urgence : temps qui reste pour soigner les patients entrés en urgence.",
   hospital_opening = "Délai : ceci est le temps qui reste avant que votre hôpital soit ouvert. Cliquez sur GO pour l'ouvrir tout de suite.",
-  epidemic = "Epidémie : temps qui reste pour arrêter l'épidémie. Si ce délai expire OU si un malade contagieux quitte l'hôpital, un inspecteur sanitaire viendra... Le bouton active ou désactive la vaccination. Cliquez sur un patient pour lancer la vaccination par une infermière.",
+  epidemic = "Epidémie : temps qui reste pour arrêter l'épidémie. Si ce délai expire OU si un malade contagieux quitte l'hôpital, un inspecteur sanitaire viendra... Le bouton active ou désactive la vaccination. Cliquez sur un patient pour lancer la vaccination par une infirmière.",
 }
 tooltip.objects = {
   chair = "Chaise : le patient s'y assied pour parler de ses symptômes.",
@@ -147,7 +147,7 @@ room_descriptions.inflation[2] = "Les patients souffrant de l'affreuse-mais-si-d
 room_descriptions.hair_restoration[2] = "Les patients souffrant de sévère calvitie se rendront dans cette salle équipée d'un moumouteur. Un médecin utilisera la machine pour donner aux patients une nouvelle chevelure."
 room_descriptions.electrolysis[2] = "Les patients souffrant de pilose viennent dans cette salle où une machine arrache les poils et scelle les pores selon un procédé qui n'est pas sans rappeler la cimentation."
 progress_report.too_hot = "Réglez le chauffage : on étouffe."
-adviser.tutorial.build_pharmacy = "Félicitations ! Construisez maintenant une pharmacie et embauchez une infermière."
+adviser.tutorial.build_pharmacy = "Félicitations ! Construisez maintenant une pharmacie et embauchez une infirmière."
 adviser.epidemic.serious_warning = "Cette maladie contagieuse est dangereuse. Vous devez prendre des mesures d'urgence !"
 adviser.staff_advice.too_many_doctors = "Il y a trop de médecins. Certains n'ont rien à faire !"
 adviser.earthquake.ended = "Ouh là ! J'ai cru que c'était la fin ! C'était du %d sur l'échelle de Richter."
@@ -396,7 +396,7 @@ diseases = {
   },
   sleeping_illness = {
     cause = "Cause : hypertrophie de la glande palatale de Morphée.",
-    cure = "Traitement : une infermière administre une forte dose d'un puissant stimulant.",
+    cure = "Traitement : une infirmière administre une forte dose d'un puissant stimulant.",
     name = "Roupillance",
     symptoms = "Symptômes : tendance irrépressible à tomber de sommeil.",
   },
@@ -420,7 +420,7 @@ diseases = {
   },
   gut_rot = {
     cause = "Cause : la Bonne Vieille Bibine de la Mère Sam.",
-    cure = "Traitement : une infermière doit administrer diverses substances chimiques pour tenter de colmater le tout.",
+    cure = "Traitement : une infirmière doit administrer diverses substances chimiques pour tenter de colmater le tout.",
     name = "Tripurulente",
     symptoms = "Symptômes : aucun microbe mais plus de paroi intestinale non plus.",
   },
@@ -480,7 +480,7 @@ diseases = {
   },
   chronic_nosehair = {
     cause = "Cause : avoir reniflé avec dédain à la vue de plus malheureux que soi.",
-    cure = "Traitement : une épouvantable potion dépilatoire est administrée par une infermière à la pharmacie.",
+    cure = "Traitement : une épouvantable potion dépilatoire est administrée par une infirmière à la pharmacie.",
     name = "Poilonisme",
     symptoms = "Symptômes : poils au nez si drus qu'un oiseau pourrait y nicher.",
   },
